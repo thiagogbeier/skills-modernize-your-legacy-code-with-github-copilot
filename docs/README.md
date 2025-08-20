@@ -15,9 +15,11 @@ sequenceDiagram
   Operations-->>MainProgram: Return operation status/results
   MainProgram-->>User: Display result/report
 ```
-# School Accounting System - COBOL Legacy Code Documentation
+
+## School Accounting System - COBOL Legacy Code Documentation
 
 ## Overview
+
 This project is a legacy COBOL-based accounting system designed for school financial management. The system is organized into modular COBOL files, each serving a specific role in the application.
 
 ## File Structure
